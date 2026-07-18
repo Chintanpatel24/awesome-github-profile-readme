@@ -277,6 +277,7 @@
 - [Christian Petersen](https://github.com/fnky/fnky)
 
 ## Tools
+- [Pin me](https://github.com/Chintanpatel24/pinme) - Pin your repo in the README. as a pinned repo list !!
 - [Todoist Stats in Readme](https://github.com/abhisheknaiidu/todoist-readme) - Daily Todoist Stats on your Profile Readme
 - [Visitor Badge](https://visitor-badge.glitch.me/#docs) - Count visitors for your README.md, Issues, PRs in GitHub
 - [1990s style Visitor Counter](https://twitter.com/ryanlanciaux/status/1283755637126705152) - Add a 1990s style visitor counter with one line of markdown.
